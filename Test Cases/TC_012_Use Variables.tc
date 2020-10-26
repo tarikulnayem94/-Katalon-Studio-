@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Katalon Studio | How to use Variables</description>
+   <name>TC_012_Use Variables</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a23539ea-769c-4963-af3a-928277f00458</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>1f3a1342-62ed-4827-948c-0cfcebd5b509</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>75d89336-873c-4f8d-8c3e-fb36b2426ea6</id>
+      <masked>false</masked>
+      <name>passWord</name>
+   </variable>
+</TestCaseEntity>

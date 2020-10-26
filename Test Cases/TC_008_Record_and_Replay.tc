@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Automation Step by Step - Raghav Pal</description>
+   <name>TC_008_Record_and_Replay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb7f97eb-23a4-4488-8c6e-4d67a08dd07f</testCaseGuid>
+</TestCaseEntity>

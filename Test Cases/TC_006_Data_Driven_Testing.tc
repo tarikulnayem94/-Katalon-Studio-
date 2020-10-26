@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Data Driven Testing: Executes Test Case with different data</description>
+   <name>TC_006_Data_Driven_Testing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3c35f2b-67a0-4204-a8e7-b42c9be90dbe</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>33f61106-bc02-4477-b300-0c4905f761d9</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e2497814-0e8d-4719-bf6b-7d854d3b35fb</id>
+      <masked>false</masked>
+      <name>PassWord</name>
+   </variable>
+</TestCaseEntity>
